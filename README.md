@@ -1,4 +1,4 @@
-<h1 align=center>INM702-Object-and-Facial-Expression-Recognition </h2>
+<h1 align=center>INM702- Object and Facial Expression Recognition </h2>
 
 <h2 align=center>Custom Image Classifiers for Object Detection and Facial Expression Recognition </h2>
 
